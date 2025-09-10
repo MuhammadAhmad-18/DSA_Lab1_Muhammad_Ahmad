@@ -1,3 +1,3 @@
 # DSA_Lab1_Muhammad_Ahmad
 
-This is LAB-1 of DSA course.
+this is lab 1 of dsa course by Areeba Rameen.
